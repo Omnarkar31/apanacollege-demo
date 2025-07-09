@@ -1,4 +1,4 @@
 # apanacollege-demo
 this is my first Git Repository.
 <br>
-Author- OM NARKAR
+Author- SAI NARKAR
